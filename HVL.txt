@@ -1,0 +1,2 @@
+#spessorelastra[mm]  #dose[uGy]  #xerr[mm]  #yerr[uGy]
+0.95  53.6  0.05  
